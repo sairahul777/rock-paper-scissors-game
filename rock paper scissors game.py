@@ -30,7 +30,7 @@ scissors='''
 '''
 game_images=[rock,paper,scissors]
 print("lets play rock paper scissors game!!!")
-user_choice=int(input("enter your choice 0 for rock, 1 for paper, 2 for scissors\n"))
+user_choice=int(input("enter your choice 0 for rock, 1 for paper, 2 for scissors: \n"))
 if user_choice>=0 and user_choice<=2:
  print("you chose:")
  print(game_images[user_choice])
