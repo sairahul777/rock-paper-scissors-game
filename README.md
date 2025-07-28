@@ -13,42 +13,6 @@ A classic **Rock Paper Scissors** game written in Python using simple logic, ASC
 
 ---
 
-## 🧪 Example Gameplay
-
-lets play rock paper scissors game!!!
-enter your choice 0 for rock, 1 for paper, 2 for scissors: 
-2
-you chose:
-
-'''
-
-    _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___)
-
-'''
-
-computer chose:
-
-'''
-     _______
----'    ____)____
-           ______)
-          _______)
-         _______)
----.__________)
-
-'''
-
-you win!!!
-
-
-
----
-
 ## 🧠 Concepts Used
 
 - `input()` for user interaction
