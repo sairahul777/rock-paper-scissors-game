@@ -20,6 +20,8 @@ enter your choice 0 for rock, 1 for paper, 2 for scissors:
 2
 you chose:
 
+'''
+
     _______
 ---'   ____)____
           ______)
@@ -27,8 +29,11 @@ you chose:
       (____)
 ---.__(___)
 
+'''
+
 computer chose:
 
+'''
      _______
 ---'    ____)____
            ______)
@@ -36,8 +41,9 @@ computer chose:
          _______)
 ---.__________)
 
-you win!!!
+'''
 
+you win!!!
 
 
 
