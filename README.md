@@ -12,6 +12,9 @@ A classic **Rock Paper Scissors** game written in Python using simple logic, ASC
 - Includes fun ASCII art visuals for each choice
 
 ---
+
+## 🧪 Example Gameplay
+
 <pre>
 
 lets play rock paper scissors game!!!
